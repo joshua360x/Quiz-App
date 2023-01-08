@@ -1,5 +1,5 @@
 # Quiz-App
-Multiple Choice Quiz App with vanilla js
+Multiple Choice Quiz App with Vanilla js
 
 See Deployment of App on gh-pages
 
